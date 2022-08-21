@@ -1,4 +1,5 @@
-# InstagramApp
+<h1>About the app</h1>
+
 Instagram clone app in SwiftUI
 
 <br>

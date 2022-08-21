@@ -2,7 +2,7 @@
 //  StoryView.swift
 //  Instagram
 //
-//  Created by Luca Berardinelli on 18/08/22.
+//  Created by Luca Berardinelli 
 //
 
 import SwiftUI

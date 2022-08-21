@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Instagram
 //
-//  Created by Luca Berardinelli on 15/08/22.
+//  Created by Luca Berardinelli 
 //
 
 import SwiftUI
